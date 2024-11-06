@@ -9,3 +9,5 @@ The project was made in Eclipse. Clone the repository into your workspace folder
 
 # Heading 1
 Inter Tight, 24px 
+* 1
+* 2
